@@ -8,6 +8,9 @@
 	<img src="https://img.shields.io/badge/C%23-865983?style=for-the-badge&logo=Csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/UNITY-126953?style=for-the-badge&logo=UNITY&logoColor=white" />
   <img src="https://img.shields.io/badge/UNREAL-CB4010?style=for-the-badge&logo=UNREALENGINE&logoColor=white" />
+
+ ![](./profile-3d-contrib/profile-green-animate.svg)
+ 
 </div>
 <div aling="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kympy&layout=compact"><br><br>
