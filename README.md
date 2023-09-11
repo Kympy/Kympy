@@ -3,10 +3,10 @@
 
 ### SKILLS
 <div align="left">
-	<img src="https://img.shields.io/badge/C-B28FC2?style=for-the-badge&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-7C9E72?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/C%23-865983?style=for-the-badge&logo=Csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-7C9E72?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-0345E1?style=for-the-badge&logo=Csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-B28FC2?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/UNITY-126953?style=for-the-badge&logo=UNITY&logoColor=white" />
   <img src="https://img.shields.io/badge/UNREAL-CB4010?style=for-the-badge&logo=UNREALENGINE&logoColor=white" />
 
