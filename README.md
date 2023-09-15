@@ -5,10 +5,12 @@
 <div align="left">
 	<img src="https://img.shields.io/badge/C%23-865983?style=for-the-badge&logo=Csharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-7C9E72?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-0345E1?style=for-the-badge&logo=Csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-0345E1?style=for-the-badge&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-B28FC2?style=for-the-badge&logo=C&logoColor=white" />
+</br>
   <img src="https://img.shields.io/badge/UNITY-126953?style=for-the-badge&logo=UNITY&logoColor=white" />
   <img src="https://img.shields.io/badge/UNREAL-CB4010?style=for-the-badge&logo=UNREALENGINE&logoColor=white" />
+  <img src="https://img.shields.io/badge/GODOT-CB4010?style=for-the-badge&logo=godotengine&logoColor=white" />
 
  ![](./profile-3d-contrib/profile-green-animate.svg)
  
