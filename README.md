@@ -7,6 +7,7 @@
 	<img src="https://img.shields.io/badge/C++-7C9E72?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/java-0345E1?style=for-the-badge&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-B28FC2?style=for-the-badge&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-510BCE?style=for-the-badge&logo=Python&logoColor=white" />
 </br>
   <img src="https://img.shields.io/badge/UNREAL-CB4010?style=for-the-badge&logo=UNREALENGINE&logoColor=white" />
   <img src="https://img.shields.io/badge/GODOT-A5E010?style=for-the-badge&logo=godotengine&logoColor=white" />
