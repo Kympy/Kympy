@@ -16,6 +16,6 @@
  
 </div>
 <div aling="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kympy&layout=compact"><br><br>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kympy&layout=compact"><br><br>-->
 <img src="https://github-readme-stats.vercel.app/api?username=Kympy&show_icons=true">
 </div>
